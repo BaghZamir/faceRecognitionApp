@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/faceRecognitionApp/static/css/main.d80fd187.chunk.css",
-    "main.js": "/faceRecognitionApp/static/js/main.8b8e6750.chunk.js",
-    "main.js.map": "/faceRecognitionApp/static/js/main.8b8e6750.chunk.js.map",
+    "main.js": "/faceRecognitionApp/static/js/main.5d0f6432.chunk.js",
+    "main.js.map": "/faceRecognitionApp/static/js/main.5d0f6432.chunk.js.map",
     "runtime-main.js": "/faceRecognitionApp/static/js/runtime-main.3b176d6a.js",
     "runtime-main.js.map": "/faceRecognitionApp/static/js/runtime-main.3b176d6a.js.map",
     "static/css/2.31461e4f.chunk.css": "/faceRecognitionApp/static/css/2.31461e4f.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.a307e382.chunk.js",
     "static/css/main.d80fd187.chunk.css",
-    "static/js/main.8b8e6750.chunk.js"
+    "static/js/main.5d0f6432.chunk.js"
   ]
 }
