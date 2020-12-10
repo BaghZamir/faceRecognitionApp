@@ -6,6 +6,9 @@ Here users can use clarifai API to recognise faces on images they upload.
 
 Go ahead, try it here https://baghzamir.github.io/faceRecognitionApp/
 
+I also deployed one at Heroku: https://bz-smartbrain.herokuapp.com/
+
+
 ## Frontend
 
 Frontend is created using [Create React App](https://github.com/facebook/create-react-app).
@@ -14,6 +17,7 @@ This communicates with a Node server that handles sign-ins, registering and Clar
 
 
 Frontend files: https://github.com/BaghZamir/faceRecognitionApp
+
 
 ## Backend
 
